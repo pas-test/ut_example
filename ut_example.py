@@ -7,7 +7,7 @@ __author__ = 'Pavel Svatos'
 __email__  = 'pavel.svatos666@gmail.com' 
 
 
-IP_FRANKENSTEIN_PLC = '192.168.1.1'
+IP_FRANKENSTEIN_PLC = '192.168.1.150'
 SSH_PORT = '22'
 
 
