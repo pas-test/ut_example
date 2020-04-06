@@ -4,6 +4,7 @@ import unittest
 import subprocess
 
 IP_FRANKENSTEIN_PLC = '192.168.1.19'
+
 SSH_PORT = '22'
 
 
