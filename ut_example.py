@@ -3,8 +3,6 @@
 import unittest
 import subprocess
 
-__author__ = 'Pavel Svatos'
-
 
 IP_FRANKENSTEIN_PLC = '192.168.1.150'
 SSH_PORT = '22'
