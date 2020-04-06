@@ -1,2 +1,3 @@
-# ut_example
-Test of python unittest framework
+# UT example
+Test of python unittest framework.
+
